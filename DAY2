@@ -1,0 +1,79 @@
+
+   39  git clone "https://github.com/evelinricha05-byte/DevOps.git
+   40  git clone "https://github.com/evelinricha05-byte/DevOps.git"
+   41  git clone"https://github.com/evelinricha05-byte/DevOps.git"
+   42  cd day1.devops
+   43  cd day1
+   44  git clone "https://github.com/evelinricha05-byte.git"
+   45  git clone "https://github.com/evelinricha05-byte/DevOps.git"
+   46  ls
+   47  cd test.txt
+   48  cd DevOps
+   49  git commit -m "file added"
+   50  cd
+   51  ls
+   52  vi shar.txt
+   53  ls
+   54  git branch -m master
+   55  ls
+   56  git add shar.txt
+   57  git status
+   58  git status
+   59  git checkout main
+   60  pwd
+   61  cd ~/DevOps
+   62  cd DevOps
+   63  cd day1
+   64  cd ~/DevOps
+   65  git int
+   66  git branch -M main
+   67  git add day1
+   68  cd DevOps
+   69  ls
+   70  vi DAY1
+   71  ls
+   72  cd ~
+   73  ls
+   74  mkdir DevOps
+   75  cd DevOps
+   76  touch DAY1
+   77  ls
+   78  git init
+   79  git branch -M main
+   80  git branch
+   81  git add DAY1
+   82  git status
+   83  git commit -m "DAY! file added"
+   84  git branch master
+   85  git branch
+   86  git checkout master
+   87  git branch
+   88  git checkout main
+   89  git branch
+   90  ls
+   91  cd DevOps
+   92  mkdir DevOps
+   93  cd DevOps
+   94  git clone "https://github.com/evelinricha05-byte/DevOps.git"
+   95  ls
+   96  cd DevOps
+   97  vi DAY1
+   98  git status
+   99  git add DAY1
+  100  git commit -m "DAY1 file added"
+  101  git branch
+  102  git branch master
+  103  git checkout master
+  104  git branch
+  105  git checkout main
+  106  git branch
+  107  git status
+  108  git commit -m "shar file"
+  109  ls
+  110  git checkout master
+  111  ls
+  112  git checkout master
+  113  ls
+  114  git checkout main
+  115  ls
+  116  history
